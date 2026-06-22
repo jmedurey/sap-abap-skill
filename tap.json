@@ -1,9 +1,13 @@
 {
   "name": "sap-abap-skill",
+  "path": "skills/",
   "skills": [
     {
-      "name": "sap-abap-skill",
-      "path": "skills/sap-abap-skill"
+      "id": "abap-report-generator",
+      "name": "Generador de Reports ABAP",
+      "description": "Crea, estructura y activa programas REPORT en SAP de forma automática",
+      "path": "skills/create-report"
     }
   ]
 }
+
