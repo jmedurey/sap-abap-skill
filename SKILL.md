@@ -1,6 +1,7 @@
-name: sap-abap-skill
-description:
- SAP ABAP Skill para Hermes
+---
+name: sap-abap-skill-01
+description: Skill básico para ayudar con tareas y preguntas sobre SAP ABAP.
+---
 
 # sap-abap-skill
 

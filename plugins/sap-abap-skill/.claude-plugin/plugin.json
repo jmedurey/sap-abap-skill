@@ -1,7 +1,0 @@
-{
-  "name": "sap-abap-skill",
-  "version": "1.0.0",
-  "description": "Plugin que contiene el skill sap-abap-skill para Hermes.",
-  "skills": ["sap-abap-skill"]
-}
-

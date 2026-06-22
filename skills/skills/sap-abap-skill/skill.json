@@ -1,9 +1,0 @@
-{
-  "name": "sap-abap-skill",
-  "version": "1.0.0",
-  "description": "Skill para interactuar con SAP ABAP a través del MCP de ADT.",
-  "author": "Miguel",
-  "entrypoint": "skill.md",
-  "license": "MIT"
-}
-
