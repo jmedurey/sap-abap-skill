@@ -1,9 +1,0 @@
-{
-  "name": "sap-abap-skill-tap",
-  "skills": [
-    {
-      "name": "sap-abap-skill",
-      "path": "skills/sap-abap-skill"
-    }
-  ]
-}
